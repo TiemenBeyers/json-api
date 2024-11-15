@@ -1,0 +1,27 @@
+{
+    "devices": [
+      { "id": 1, "name": "Temperature Sensor", "status": "Active", "location": "Office A" },
+      { "id": 2, "name": "Humidity Sensor", "status": "Inactive", "location": "Warehouse" },
+      { "id": 3, "name": "Motion Detector", "status": "Active", "location": "Main Entrance" },
+      { "id": 4, "name": "Smart Thermostat", "status": "Active", "location": "Office B" },
+      { "id": 5, "name": "Light Sensor", "status": "Inactive", "location": "Conference Room" },
+      { "id": 6, "name": "Camera", "status": "Active", "location": "Lobby" },
+      { "id": 7, "name": "CO2 Sensor", "status": "Active", "location": "Lab" },
+      { "id": 8, "name": "Smart Lock", "status": "Inactive", "location": "Storage Room" },
+      { "id": 9, "name": "Water Leak Sensor", "status": "Active", "location": "Server Room" },
+      { "id": 10, "name": "Air Quality Monitor", "status": "Active", "location": "Reception" }
+    ],
+    "locations": [
+      "Office A",
+      "Office B",
+      "Warehouse",
+      "Main Entrance",
+      "Conference Room",
+      "Lobby",
+      "Lab",
+      "Storage Room",
+      "Server Room",
+      "Reception"
+    ]
+  }
+  
